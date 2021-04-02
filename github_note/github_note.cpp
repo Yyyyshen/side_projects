@@ -7,13 +7,16 @@
 之前在github给asio提issue的时候经常需要贴大段代码，很显然占据大块页面并不便于讨论问题
 所以查了一下折叠块的使用方法
 
-github 折叠块格式
+Markdown折叠块格式
 <details>
-<summary>123</summary>
-```java
-import(这里是代码区域)
+<summary>标题</summary>
+```c++
+代码块
 ```
 </details>
+
+似乎不能嵌套md格式
+
 */
 
 int main()
