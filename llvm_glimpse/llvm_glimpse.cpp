@@ -3,15 +3,24 @@
 
 #include <iostream>
 
-/**
- * 了解编译原理
- * 从llvm开始
- * 
- * 参考
- * https://zhuanlan.zhihu.com/p/122522485
- * https://llvm.org/docs/tutorial/index.html （官方）
- * clang手册 https://clang.llvm.org/docs/UsersManual.html
- */
+//
+//了解编译原理
+//从llvm开始
+//
+//参考
+//https://zhuanlan.zhihu.com/p/122522485
+//https://llvm.org/docs/tutorial/index.html （官方）
+//clang手册 https://clang.llvm.org/docs/UsersManual.html
+//
+
+//
+//Learn LLVM 12 中文译本
+// https://github.com/xiaoweiChen/Learn-LLVM-12
+//
+
+//
+//
+//
 
 int main()
 {
