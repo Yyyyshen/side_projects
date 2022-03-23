@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "something_fun", "something_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chia_coin", "chia_coin\chia_coin.vcxproj", "{3B3A5CF0-8D1A-4AE5-8CC9-120D16068E23}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "utility_record", "utility_record\utility_record.vcxproj", "{AF73684C-69F6-4506-8FFF-098F95B8751B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{3B3A5CF0-8D1A-4AE5-8CC9-120D16068E23}.Release|x64.Build.0 = Release|x64
 		{3B3A5CF0-8D1A-4AE5-8CC9-120D16068E23}.Release|x86.ActiveCfg = Release|Win32
 		{3B3A5CF0-8D1A-4AE5-8CC9-120D16068E23}.Release|x86.Build.0 = Release|Win32
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Debug|x64.ActiveCfg = Debug|x64
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Debug|x64.Build.0 = Debug|x64
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Debug|x86.Build.0 = Debug|Win32
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Release|x64.ActiveCfg = Release|x64
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Release|x64.Build.0 = Release|x64
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Release|x86.ActiveCfg = Release|Win32
+		{AF73684C-69F6-4506-8FFF-098F95B8751B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
